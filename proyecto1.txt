@@ -1,5 +1,15 @@
 This is my history Stephannny
+<<<<<<< HEAD
 I am studying Data Science and I like traveling to around the world
 I live in Bogotá
 Now is the director of RobotPilos
 and I am seeking job
+=======
+
+Hoy hablaremos de mi vida y obra maestra
+
+Mi edad
+
+Mañana hablaremos de la vida laboral
+Hoy estudio git
+>>>>>>> cabecera
